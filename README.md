@@ -20,8 +20,8 @@
 
 ## 🌐 Tecnologías que quiero aprender a usar
 
-- Git & GitHub
-- HTML5, CSS3, JavaScript
+- <code>Git & GitHub</code>
+- <code>HTML5, CSS3, JavaScript</code>
 
 ---
 
