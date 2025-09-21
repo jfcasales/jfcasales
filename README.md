@@ -10,18 +10,19 @@
 
 ## 🌟 Tecnologías que conozco actualemente
 
-- <code>C#</code>
+- <code>C# - .NET Framework</code>
 - <code>Visual Basic</code>
 - <code>4GL</code>
 - <code>Crystal Report</code>
 - <code>Transact-SQL</code>
+- <code>Git & GitHub</code>
+- <code>C++</code>
 
 ---
 
 ## 🌐 Tecnologías que quiero aprender a usar
-
-- <code>Git & GitHub</code>
-- <code>C++</code>
+- <code>C# .NET 8</code>
+- <code>React</code>
 - <code>HTML5, CSS3, JavaScript</code>
 
 ---
